@@ -21,7 +21,7 @@ I am currently studying at the University in the field of Software Development.<
   
 ![](https://github-readme-stats.vercel.app/api?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yayo22124&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
   
 </div>
 
