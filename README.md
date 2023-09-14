@@ -26,7 +26,11 @@ I am currently studying at the University in the field of Software Development.<
 </div>
 
 ## 🏆 GitHub Trophies
+<div align="center" style="display: flex; flex-direction: column; gap: 10px;">
+
 ![](https://github-profile-trophy.vercel.app/?username=Yayo22124&theme=alduin&no-frame=true&no-bg=true&margin-w=4)
+  
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
