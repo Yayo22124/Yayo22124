@@ -18,11 +18,7 @@ I am currently studying at the University in the field of Software Development.<
 
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; flex-direction: column; gap: 10px;">
-  
-![](https://github-readme-stats.vercel.app/api?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yayo22124&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-  
+ 
 </div>
 <a href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
@@ -31,7 +27,7 @@ I am currently studying at the University in the field of Software Development.<
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yayo22124&theme=onedark&hide_border=false?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 
 ## 🏆 GitHub Trophies
@@ -47,10 +43,4 @@ I am currently studying at the University in the field of Software Development.<
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yayo22124&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
