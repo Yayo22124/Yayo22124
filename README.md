@@ -38,4 +38,10 @@ I am currently studying at the University in the field of Software Development.<
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yayo22124&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
