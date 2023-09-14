@@ -39,9 +39,17 @@ I am currently studying at the University in the field of Software Development.<
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align="center">
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+  
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yayo22124&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<div align="center">
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=Yayo22124&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+  
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
