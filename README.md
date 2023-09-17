@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am currently studying at the University in the field of Software Development.<br>I am starting in the world of Systems Development and Management.<br>My interests are Astro, React, SQL/NoSQL Databases, as well as handling Linux Systems and more.
+Mi nombre es Eli Haziel Ortiz Ramirez y tengo 18 años, soy un estudiante de T.S.U en **Desarrollo de Software Multiplaforma** de la Universidad Tecnológica de Xicotepec de Juárez. Bienvenido a mi perfil de **GitHub**, aquí podrás conocer
+sobre mis proyectos personales que uso para aprender y sumergirme aún más en el interesante mundo de la programación y desarrollo web.
+
+Mis principales interéses son:
+  - Desarrollo Web (Front y Back)
+  - Sistemas basados en Unix (Linux).
+  - Manejo y administración de Bases de Datos SQL y NoSQL.
+  - Ciberseguridad.
 
 
 ## 🌐 Socials:
