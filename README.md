@@ -38,21 +38,21 @@ I am currently studying at the University in the field of Software Development.<
   
 </div>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center">
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
   
 </div>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <div align="center">
   
   ![](https://github-contributor-stats.vercel.app/api?username=Yayo22124&limit=5&theme=onedark&combine_all_yearly_contributions=true)
   
 </div>
 
-### 🧑‍🚀 Visit my projects
+## 🧑‍🚀 Visit my projects
 <a href="https://github.com/Yayo22124/React-TicTacToe.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=React-TicTacToe" />
 </a>
