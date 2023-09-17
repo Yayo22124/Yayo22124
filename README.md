@@ -71,5 +71,12 @@ Mis principales interéses son:
 <a href="https://github.com/Yayo22124/AWOS-React.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=AWOS-React" />
 </a>
+<a href="https://github.com/Yayo22124/SazonMaXico.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=SazonMaXico" />
+</a>
+</a>
+<a href="https://github.com/Yayo22124/POSH-Configure.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=POSH-Configure" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
