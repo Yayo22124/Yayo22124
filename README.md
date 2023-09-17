@@ -1,6 +1,5 @@
-<p align="center">
-  <strong>💫 About Me</strong>
-</p>
+<h1 align="center">💫 About Me:</h1>
+
 Mi nombre es Eli Haziel Ortiz Ramirez y tengo 18 años, soy un estudiante de T.S.U en **Desarrollo de Software Multiplaforma** de la Universidad Tecnológica de Xicotepec de Juárez. Bienvenido a mi perfil de **GitHub**, aquí podrás conocer
 sobre mis proyectos personales que uso para aprender y sumergirme aún más en el interesante mundo de la programación y desarrollo web.
 
