@@ -56,8 +56,8 @@ I am currently studying at the University in the field of Software Development.<
 <a href="https://github.com/Yayo22124/React-TicTacToe.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=React-TicTacToe" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Yayo22124/AWOS-React.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=AWOS-React" />
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
