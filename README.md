@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center">💫 About Me</h1>
 
 Mi nombre es Eli Haziel Ortiz Ramirez y tengo 18 años, soy un estudiante de T.S.U en **Desarrollo de Software Multiplaforma** de la Universidad Tecnológica de Xicotepec de Juárez. Bienvenido a mi perfil de **GitHub**, aquí podrás conocer
 sobre mis proyectos personales que uso para aprender y sumergirme aún más en el interesante mundo de la programación y desarrollo web.
@@ -10,14 +10,14 @@ Mis principales interéses son:
   - Ciberseguridad.
 
 
-## 🌐 Redes Sociales:
+<h2 align="center">🌐 Redes Sociales</h2>
 <div align="center">
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/elihaziel.ortizramirez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/haziel.ortiz22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/haziel-ortiz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21898612) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@h4k0n3) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yayo100622) 
   
 </div>
 
-# 💻 Tech Stack:
+<h1 align="center">💻 Tech Stack</h1>
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-%23000000.svg?style=for-the-badge&logo=deno&logoColor=white)
