@@ -1,29 +1,19 @@
 
 <h1 align="center">💫 About Me 💫</h1>
-<div align="right">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-<div align="left" style="width: 50%;display: flex; flex-direction: column;align-items: center;justify-content: center;">
-  <p>
-    Mi nombre es Eli Haziel Ortiz Ramirez y tengo 18 años, soy un estudiante de T.S.U en <strong>Desarrollo de Software
-      Multiplaforma<strong /> de la Universidad Tecnológica de Xicotepec de Juárez. Bienvenido a mi perfil de
-      <strong>GitHub<strong/>, aquí podrás conocer
-      sobre mis proyectos personales que uso para aprender y sumergirme aún más en el interesante mundo de la
-      programación y desarrollo web.
-  </p>
-  <p>
-    Mis principales interéses son:
-  </p>
-  <ul>
-    <li>Desarrollo Web (Front y Back)</li>
-    <li>Sistemas basados en Unix (Linux).</li>
-    <li>Manejo y administración de Bases de Datos SQL y NoSQL.</li>
-    <li>Ciberseguridad.</li>
-  </ul>
+  <div align="center">
+    <img 
+      height="125"
+  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"
+      />
+  </div>
+  
+Mi nombre es Eli Haziel Ortiz Ramirez y tengo 18 años, soy un estudiante de T.S.U en **Desarrollo de Software Multiplaforma** de la Universidad Tecnológica de Xicotepec de Juárez. Bienvenido a mi perfil de **GitHub**, aquí podrás conocer sobre mis proyectos personales que uso para aprender y sumergirme aún más en el interesante mundo de la programación y desarrollo web.
 
-</div>
-
-
+Mis principales interéses son:
+  - Desarrollo Web (Front y Back).
+  - Sistemas basados en Unix (Linux).
+  - Manejo y administración de Bases de Datos SQL y NoSQL.
+  - Ciberseguridad.
 
 <h2 align="center">🌐 Redes Sociales 🌐</h2>
 <div align="center">
