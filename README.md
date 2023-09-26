@@ -48,7 +48,7 @@ Mis principales interéses son:
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yayo22124&theme=onedark&hide_border=false?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
   </p>
   <p href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yayo22124&theme=github_dark" alt="Estadísticas de GitHub" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yayo22124&theme=aura_dark" alt="Estadísticas de GitHub" />
   </p>
    
 </div>
