@@ -38,18 +38,18 @@ Mis principales interéses son:
 # 📊 GitHub Stats:
 <div>
   
-  <a href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
+  <p href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
+  </p>
+  <p href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yayo22124&theme=onedark&hide_border=false?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </a>
-  <a href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
+  </p>
+  <p href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayo22124&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Estats Github"/>
+  </p>
+  <p href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yayo22124&theme=github_dark" alt="Estadísticas de GitHub" />
-  </a>
+  </p>
    
 </div>
 
