@@ -1,7 +1,7 @@
 
 <h1 align="center">💫 About Me 💫</h1>
   <div align="center">
-    <img 
+    <img
       height="125"
   src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"
       />
@@ -10,32 +10,52 @@
 Mi nombre es Eli Haziel Ortiz Ramirez y tengo 18 años, soy un estudiante de T.S.U en **Desarrollo de Software Multiplaforma** de la Universidad Tecnológica de Xicotepec de Juárez. Bienvenido a mi perfil de **GitHub**, aquí podrás conocer sobre mis proyectos personales que uso para aprender y sumergirme aún más en el interesante mundo de la programación y desarrollo web.
 
 Mis principales interéses son:
-  - Desarrollo Web (Front y Back).
-  - Sistemas basados en Unix (Linux).
-  - Manejo y administración de Bases de Datos SQL y NoSQL.
-  - Ciberseguridad.
 
-<h2 align="center">🌐 Redes Sociales 🌐</h2>
+- Desarrollo Web (Front y Back).
+- Sistemas basados en Unix (Linux).
+- Manejo y administración de Bases de Datos SQL y NoSQL.
+- Ciberseguridad.
+
 <div align="center">
+  <h2>🌐 Redes Sociales 🌐</h2>
   
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/elihaziel.ortizramirez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/haziel.ortiz22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/haziel-ortiz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21898612) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@h4k0n3) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yayo100622) 
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/elihaziel.ortizramirez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/haziel.ortiz22) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21898612) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@h4k0n3) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yayo100622)
   
 </div>
+<div align="center">
+  <h2>Contáctame</h2>
 
+  [![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge)](mailto:ya-yo22124@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/haziel-ortiz) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=gray)](https://github.com/Yayo22124) [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Yayo22124)
+
+<div/>
 
 <h1 align="center">💻 Tech Stack 💻</h1>
 <div align="center">
+
+<div style="width: 250px; display: inline-block; text-align: left;">
+    <h3>Front End</h3>
+    <!-- Front End -->
+
+  ![Astro](https://img.shields.io/badge/Astro-%23123456?style=for-the-badge&logo=astro&logoColor=white) [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge)](https://angular.io/) [![Angular Material](https://img.shields.io/badge/Angular_Material-%23005797.svg?logo=angular-material&logoColor=white&style=for-the-badge)](https://material.angular.io/) [![EJS](https://img.shields.io/badge/EJS-%23A91E50.svg?logo=ejs&logoColor=white&style=for-the-badge)](https://ejs.co/) [![Pug](https://img.shields.io/badge/Pug-%23A86454.svg?logo=pug&logoColor=white&style=for-the-badge)](https://pugjs.org/) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  </div>
   
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-%23000000.svg?style=for-the-badge&logo=deno&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%231EAE43.svg?style=for-the-badge&logo=pnpm&logoColor=white)
- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite.js](https://img.shields.io/badge/Vite.js-%230A1328.svg?style=for-the-badge&logo=vite&logoColor=white)
- ![Astro](https://img.shields.io/badge/Astro-%23123456?style=for-the-badge&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CCNA](https://img.shields.io/badge/CCNA-Cisco-1A98E8.svg?style=for-the-badge&logo=cisco&logoColor=white)
+  <div style="width: 300px; display: inline-block; text-align: left;">
+    <h3>Back End</h3>
+    <!-- Back End -->
 
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white&style=for-the-badge) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%231EAE43.svg?style=for-the-badge&logo=pnpm&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite.js](https://img.shields.io/badge/Vite.js-%230A1328.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/) [![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas)
 
+  </div>
+<div/>
+<div align="center" class="width:300px;">
+  <h3>Herramientas y otros<h3/>
 
-</div>
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CCNA](https://img.shields.io/badge/CCNA-Cisco-1A98E8.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-# 📊 GitHub Stats:
+<div/>
+
+# 📊 GitLab Stats
+
 <div>
   
   <p href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md" align="center">
@@ -50,10 +70,11 @@ Mis principales interéses son:
   <p href="https://github.com/Yayo22124/Yayo22124/blob/main/README.md" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yayo22124&theme=aura_dark" alt="Estadísticas de GitHub" />
   </p>
-   
+
 </div>
 
 ## 🏆 GitHub Trophies
+
 <div align="center" style="display: flex; flex-direction: column; gap: 10px;">
 
 ![](https://github-profile-trophy.vercel.app/?username=Yayo22124&theme=alduin&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
@@ -61,6 +82,7 @@ Mis principales interéses son:
 </div>
 
 ## ✍️ Random Dev Quote
+
 <div align="center">
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -68,6 +90,7 @@ Mis principales interéses son:
 </div>
 
 ## 🧑‍🚀 Visit my projects
+
 <a href="https://github.com/Yayo22124/React-TicTacToe.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=React-TicTacToe" />
 </a>
