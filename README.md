@@ -11,11 +11,11 @@ Mi nombre es Eli Haziel Ortiz Ramirez y tengo 18 años, soy un estudiante de T.S
 
 Mis principales interéses son:
 
-- Desarrollo Web (Front y Back).
-- Sistemas basados en Unix (Linux).
-- Manejo y administración de Bases de Datos SQL y NoSQL.
-- Control y gestión de versiones para proyectos con Git, GitHub y GitLab.
-- Ciberseguridad.
+- Desarrollo Web FrontEnd con **frameworks** como Angular o React.
+- Desarrollo BackEnd para arquitecturas orientadas a **servicios** (API REST);
+- Sistemas basados en **Unix** (Linux).
+- Manejo y administración de **Bases de Datos** SQL y NoSQL.
+- Control y gestión de versiones para proyectos con **Git**, GitHub y GitLab.
 
 <div align="center">
   <h2>🌐 Redes Sociales 🌐</h2>
