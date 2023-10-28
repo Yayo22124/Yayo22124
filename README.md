@@ -14,6 +14,7 @@ Mis principales interéses son:
 - Desarrollo Web (Front y Back).
 - Sistemas basados en Unix (Linux).
 - Manejo y administración de Bases de Datos SQL y NoSQL.
+- Control y gestión de versiones para proyectos con Git, GitHub y GitLab.
 - Ciberseguridad.
 
 <div align="center">
