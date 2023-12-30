@@ -26,7 +26,8 @@ Mis principales interéses son:
 <div align="center">
   <h2>Contáctame</h2>
 
-  [![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge)](mailto:ya-yo22124@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/haziel-ortiz) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=gray)](https://github.com/Yayo22124) [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Yayo22124)
+  [![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge)](mailto:ya-yo22124@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/haziel-ortiz) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=gray)](https://github.com/Yayo22124) [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Yayo22124) [![Portafolio](https://img.shields.io/badge/Portafolio-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yayo22124.vercel.app)
+
 
 <div/>
 
