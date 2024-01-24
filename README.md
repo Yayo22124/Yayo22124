@@ -1,11 +1,5 @@
 
 <h1 align="center">💫 About Me 💫</h1>
-  <div align="center">
-    <img
-      height="125"
-  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"
-      />
-  </div>
   
 Mi nombre es Eli Haziel Ortiz Ramirez y tengo 18 años, soy un estudiante de T.S.U en **Desarrollo de Software Multiplaforma** de la Universidad Tecnológica de Xicotepec de Juárez. Bienvenido a mi perfil de **GitHub**, aquí podrás conocer sobre mis proyectos personales que uso para aprender y obtener habilidades en herramientas para el desarrollo web.
 
@@ -26,7 +20,7 @@ Mis principales interéses son:
 <div align="center">
   <h2>Contáctame</h2>
 
-  [![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge)](mailto:ya-yo22124@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/haziel-ortiz) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=gray)](https://github.com/Yayo22124) [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Yayo22124) [![Portafolio](https://img.shields.io/badge/Portafolio-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yayo22124.vercel.app) [![Portafolio](https://img.shields.io/badge/Portafolio-%23121011.svg?style=for-the-badge&logo=folder&logoColor=white)](https://yayo22124.vercel.app)
+  [![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge)](mailto:ya-yo22124@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/haziel-ortiz) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=gray)](https://github.com/Yayo22124) [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Yayo22124) [![Portafolio](https://img.shields.io/badge/Portafolio-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yayo22124.vercel.app) 
 
 
 
