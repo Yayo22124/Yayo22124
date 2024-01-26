@@ -98,10 +98,10 @@ Mis principales interéses son:
   
 </div>
 
-## 🧑‍🚀 Visit my projects
+## 🧑‍🚀 Visit my GitHub projects
 
-<a href="https://github.com/Yayo22124/React-TicTacToe.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=React-TicTacToe" />
+<a href="https://github.com/Yayo22124/Angular-Messenger.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=Angular-Messenger" />
 </a>
 <a href="https://github.com/Yayo22124/AWOS-React.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayo22124&repo=AWOS-React" />
