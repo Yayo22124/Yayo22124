@@ -5,14 +5,12 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </div>
 
-Mi nombre es Eli Haziel Ortiz Ramirez y tengo 18 años, soy un estudiante de T.S.U en **Desarrollo de Software Multiplaforma** de la Universidad Tecnológica de Xicotepec de Juárez. Bienvenido a mi perfil de **GitHub**, aquí podrás conocer sobre mis proyectos personales que uso para aprender y obtener habilidades en herramientas para el desarrollo web.
+Mi nombre es Eli Haziel Ortiz Ramirez y tengo 19 años, actualmente soy estudiante de T.S.U. en Desarrollo de Software Multiplataforma. En mi perfil conocerás las prácticas, proyectos y ejercicios que he realizado en la universidad o por cuenta propia para aprender sobre desarrollo. Mi principal enfoque es el **desarrollo web frontend** con Angular 15 y 17. También estoy familiarizado con el desarrollo backend con Nest y Express usando tanto bases de datos SQL, como NoSQL.    
 
 Mis principales interéses son:
 
 - Desarrollo Web FrontEnd con **frameworks** como Angular o React.
 - Desarrollo BackEnd para arquitecturas orientadas a **servicios** (API REST);
-- Sistemas basados en **Unix** (Linux).
-- Manejo y administración de **Bases de Datos** SQL y NoSQL.
 - Control y gestión de versiones para proyectos con **Git**, GitHub y GitLab.
 
 <div align="center">
