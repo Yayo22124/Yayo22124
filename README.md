@@ -9,7 +9,7 @@ Mi nombre es Eli Haziel Ortiz Ramirez y tengo 19 años, actualmente soy estudian
 
 Mis principales interéses son:
 
-- Desarrollo Web FrontEnd con **frameworks** como Angular o React.
+- Desarrollo Web FrontEnd con **frameworks/librerias** como Angular o React.
 - Desarrollo BackEnd para arquitecturas orientadas a **servicios** (API REST);
 - Control y gestión de versiones para proyectos con **Git**, GitHub y GitLab.
 
