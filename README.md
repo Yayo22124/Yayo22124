@@ -5,7 +5,7 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </div>
 
-Soy un apasionado desarrollador web con tres meses de experiencia profesional como Web UI Jr en Inncol. Mi principal área es el Frontend con Javascript usando librerías/frameworks como Angular (15, 17) y React con Next.js, sin embargo el desarrollar me motiva cada vez a aprender más temas y crecer como estudiante/profesional, considero que no hay temas de interés y mucho menos sin valor profesional. 🚀
+Soy un apasionado desarrollador web con tres meses de experiencia profesional como Web UI Jr en Inncol. Mi principal área de conocimientos y experiencia es el Frontend con Javascript usando librerías/frameworks como Angular (15, 17) y React con Next.js, sin embargo el desarrollar me motiva cada vez a aprender más temas y crecer como estudiante/profesional, considero que no hay temas de no interés y mucho menos sin valor profesional. 🚀
 
 También puedes conocer mi cuenta de trabajo: [inncol-eortiz](https://github.com/inncol-eortiz)
 
