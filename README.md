@@ -5,13 +5,9 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </div>
 
-Mi nombre es Eli Haziel Ortiz Ramirez y tengo 19 años, actualmente soy estudiante de T.S.U. en Desarrollo de Software Multiplataforma. En mi perfil conocerás las prácticas, proyectos y ejercicios que he realizado en la universidad o por cuenta propia para aprender sobre desarrollo. Mi principal enfoque es el **desarrollo web frontend** con Angular 15 y 17. También estoy familiarizado con el desarrollo backend con Nest y Express usando tanto bases de datos SQL, como NoSQL.    
+Soy un apasionado desarrollador web con tres meses de experiencia profesional como Web UI Jr en Inncol. Mi principal área es el Frontend con Javascript usando librerías/frameworks como Angular (15, 17) y React con Next.js, sin embargo el desarrollar me motiva cada vez a aprender más temas y crecer como estudiante/profesional, considero que no hay temas de interés y mucho menos sin valor profesional. 🚀
 
-Mis principales interéses son:
-
-- Desarrollo Web FrontEnd con **frameworks/librerias** como Angular o React.
-- Desarrollo BackEnd para arquitecturas orientadas a **servicios** (API REST);
-- Control y gestión de versiones para proyectos con **Git**, GitHub y GitLab.
+También puedes conocer mi cuenta de trabajo: [inncol-eortiz](https://github.com/inncol-eortiz)
 
 <div align="center">
   <h2>🌐 Redes Sociales 🌐</h2>
@@ -42,6 +38,7 @@ Mis principales interéses son:
     <!-- Front End -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%23123456?style=for-the-badge&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Angular 17](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge) ![Angular Material](https://img.shields.io/badge/Angular_Material-%23E65100.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular Animations](https://img.shields.io/badge/Angular_Animations-%23FF5733.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular HTTPClient](https://img.shields.io/badge/Angular_HTTPClient-%233D7E98.svg?style=for-the-badge&logo=angular&logoColor=white) [![Angular Router](https://img.shields.io/badge/Angular_Router-CA4245?style=for-the-badge&logo=angular-router&logoColor=white)](https://angular.io/guide/router) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   </div>
   
   <div style="width: 300px; display: inline-block; text-align: left;">
@@ -58,7 +55,7 @@ Mis principales interéses son:
 <div align="center" class="width:300px;">
   <h3>Herramientas y otros<h3/>
 
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CCNA](https://img.shields.io/badge/CCNA-Cisco-1A98E8.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CCNA](https://img.shields.io/badge/CCNA-Cisco-1A98E8.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 <div/>
 
